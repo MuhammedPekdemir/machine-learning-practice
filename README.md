@@ -9,3 +9,10 @@ Classification,
 
 Adult İncome Dataset : 
 https://www.kaggle.com/datasets/wenruliu/adult-income-dataset?resource=download
+
+--
+
+Classification with boosting technologies,
+
+Stroke Prediction Dataset :
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
