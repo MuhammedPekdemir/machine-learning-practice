@@ -11,3 +11,6 @@
   
 - **Stroke Prediction (Boosting):** Predicting stroke occurrence. Only about 5% of patients had a stroke, so recall and F1 were tracked instead of accuracy. A tuned LightGBM reached an F1 of 0.27.
 - [Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+
+- **Credit Card Customer Segmentation (Unsupervised Learning):** Grouping credit card customers by spending behavior using PCA, K-Means, Hierarchical Clustering, DBSCAN, and HDBSCAN, and flagging unusual customers with Isolation Forest.
+- [Dataset](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
